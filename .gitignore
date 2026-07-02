@@ -1,0 +1,38 @@
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Build
+target/
+build/
+*.class
+*.jar
+*.war
+*.ear
+
+# Dependencies
+.m2/
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# Environment
+.env
+.env.local
+.properties.local
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Application specific
+data/
+backups/
+logs/
+cache/
